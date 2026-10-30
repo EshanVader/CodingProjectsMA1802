@@ -12,7 +12,7 @@ for(let i=0; i<=100; i++){
 let i=1;
 
 while(i<=100){
-	circle(i, i, i, 30);
+	circle(i, i, 20);
 	i++;
 }
 }
