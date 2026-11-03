@@ -1,1 +1,0 @@
-This is my Flash from DC comics emoji.
