@@ -1,1 +1,0 @@
-This code represents how every action in daily life will be repeated over and over again, and how each action works in unity with the next in order to work efficiently. Furthermore, it shows how the pattern reflects the beauty of repetition and how being unorganised will affect efficiency.
